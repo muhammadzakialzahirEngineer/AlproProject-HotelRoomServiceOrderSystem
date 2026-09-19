@@ -15,3 +15,6 @@ tamu hotel. Proyek ini dibuat sebagai tugas Algoritma dan Pemrograman (AlproProj
 - C++ (STL: vector, set, fstream)
 - Doubly Linked List untuk menyimpan data pesanan
 - File handling (baca/tulis file teks)
+
+## 📄 Lisensi
+Bebas digunakan untuk keperluan belajar dan pengembangan lebih lanjut.
